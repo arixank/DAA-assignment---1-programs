@@ -1,2 +1,2 @@
-# DAA-assignment---1-programs
+# DAA-assignment-1 programs
 Assignment - 1 programs
