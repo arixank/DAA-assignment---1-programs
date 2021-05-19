@@ -1,4 +1,3 @@
-package class_assignments.assignment1;
 
 import java.util.Scanner;
 
